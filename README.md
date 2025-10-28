@@ -2,7 +2,7 @@
 
 ###  **Objective**
 
-To understand what makes a password **strong or weak**, create multiple passwords of different complexity levels, test them using **PasswordMeter.com**, and learn how complexity impacts security against attacks like **brute force** and **dictionary attacks**.
+To understand what makes a password **strong or weak**, create multiple passwords of different complexity levels, test them using **PasswordMeter.com**, and learn how complexity impacts security against attacks .
 
 ---
 
@@ -27,12 +27,6 @@ Each password was tested on **[PasswordMeter.com](https://passwordmeter.com/)** 
 
 * Overall **Score (%)**
 * **Complexity rating** (Weak / Medium / Strong / Very Strong)
-* **Additions and Deductions** based on:
-
-  * Number of characters
-  * Uppercase, lowercase, numbers, symbols
-  * Repetition and pattern detection
-
 
 **Example Screenshot( weak and strong pswd) :**
 
@@ -74,10 +68,10 @@ The more diverse and longer the password, the higher the score and complexity le
 
 ### **5. Tips Learned**
 
-✅ Simple changes like adding one symbol or capital letter increase strength significantly.
-✅ Short passwords are easy to crack even if they look complex.
-✅ Long passwords or phrases perform best on all strength meters.
-✅ Always check password feedback before using it in real accounts.
+✅ Simple changes like adding one symbol or capital letter increase strength significantly.<br>
+✅ Short passwords are easy to crack even if they look complex.<br>
+✅ Long passwords or phrases perform best on all strength meters.<br>
+✅ Always check password feedback before using it in real accounts.<br>
 
 ---
 
